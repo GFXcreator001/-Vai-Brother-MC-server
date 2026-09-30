@@ -1,1 +1,1 @@
-java -Xmx6G -Xms6G -jar paper-26.1.2-74.jar nogui
+java -Xmx4G -Xms4G -jar paper-26.1.2-74.jar nogui
