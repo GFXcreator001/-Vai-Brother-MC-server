@@ -1,0 +1,23 @@
+# Master feature switches
+enable-tree-felling: true
+enable-sapling-replanting: true
+
+# Natural-tree detection and safety limits
+max-tree-size: 500
+max-search-radius: 32
+
+# Tool behavior
+require-axe: false
+damage-tools: true
+
+# Leaves and effects
+fell-leaves: true
+play-sounds: true
+
+# Prevent placed log buildings from being mistaken for natural trees.
+# Positions are retained in placed-logs.yml across server restarts.
+track-player-placed-logs: true
+
+# Extra detection/felling details in the server log.
+debug: false
+
