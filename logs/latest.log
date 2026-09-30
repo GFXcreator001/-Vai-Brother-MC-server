@@ -81,3 +81,14 @@
 [21:48:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [21:48:51] [Server thread/INFO]: [Rcon: Saved the game]
 [21:48:51] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[21:50:02] [User Authenticator #0/INFO]: UUID of player Arpon_BD is d5a1f5dd-1502-3716-bca0-e4a16d32a223
+[21:50:02] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [GriefPrevention]
+[21:50:04] [Server thread/INFO]: Arpon_BD joined the game
+[21:50:04] [Server thread/INFO]: Arpon_BD[/127.200.159.32:49746] logged in with entity id 1 at ([minecraft:overworld]186.91132471009738, 62.9375, 555.2740765426317)
+[21:53:54] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[21:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:53:55] [Server thread/INFO]: [Rcon: Saved the game]
+[21:53:55] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
