@@ -120,3 +120,29 @@
 [22:14:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [22:14:31] [Server thread/INFO]: [Rcon: Saved the game]
 [22:14:31] [RCON Client /127.0.0.1 #7/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[22:16:05] [User Authenticator #1/INFO]: UUID of player Arpon_BD is d5a1f5dd-1502-3716-bca0-e4a16d32a223
+[22:16:05] [Server thread/INFO]: Arpon_BD lost connection: You logged in from another location
+[22:16:05] [Server thread/INFO]: [voicechat] Disconnecting client Arpon_BD
+[22:16:05] [Server thread/INFO]: Arpon_BD left the game
+[22:16:06] [Server thread/INFO]: Arpon_BD joined the game
+[22:16:06] [Server thread/INFO]: Arpon_BD[/127.207.24.139:60926] logged in with entity id 5268 at ([minecraft:overworld]189.37861085226464, 63.0, 547.9371178509298)
+[22:19:40] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[22:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:19:40] [Server thread/INFO]: [Rcon: Saved the game]
+[22:19:40] [RCON Client /127.0.0.1 #8/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[22:20:08] [User Authenticator #2/INFO]: UUID of player Arpon_BD is d5a1f5dd-1502-3716-bca0-e4a16d32a223
+[22:20:08] [Server thread/INFO]: Arpon_BD lost connection: You logged in from another location
+[22:20:08] [Server thread/INFO]: [voicechat] Disconnecting client Arpon_BD
+[22:20:08] [Server thread/INFO]: Arpon_BD left the game
+[22:20:09] [Server thread/INFO]: Arpon_BD joined the game
+[22:20:09] [Server thread/INFO]: Arpon_BD[/127.138.137.8:64254] logged in with entity id 5778 at ([minecraft:overworld]217.3716349440395, 63.0, 515.3418474354803)
+[22:24:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[22:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:24:47] [Server thread/INFO]: [Rcon: Saved the game]
+[22:24:47] [RCON Client /127.0.0.1 #9/INFO]: Thread RCON Client /127.0.0.1 shutting down
