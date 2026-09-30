@@ -106,3 +106,10 @@
 [22:04:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [22:04:14] [Server thread/INFO]: [Rcon: Saved the game]
 [22:04:14] [RCON Client /127.0.0.1 #5/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[22:09:22] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[22:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:09:22] [Server thread/INFO]: [Rcon: Saved the game]
+[22:09:22] [RCON Client /127.0.0.1 #6/INFO]: Thread RCON Client /127.0.0.1 shutting down
