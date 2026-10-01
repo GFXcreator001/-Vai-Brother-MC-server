@@ -55,3 +55,34 @@ save → server stop → final GitHub backup → done ✅
 FD-এর STOP SERVER.bat পুরোপুরি শেষ হওয়ার পর তুমি START SERVER.bat চালাবে।
 
 তাহলেই একই world পালা করে, আর manual git pull করার ঝামেলা থাকবে না।
+
+----------------------------------------------------------------------------------------------------------------------
+
+FD / SECOND-PC SETUP
+
+1. Install Git for Windows.
+2. Clone the private repository into an EMPTY Minecraft server folder.
+3. Put these files in the same server folder:
+   - START SERVER.bat
+   - STOP SERVER.bat
+   - auto_backup.bat
+   - mcrcon.exe
+4. Create rcon_password.txt and put ONLY the RCON password inside.
+5. server.properties must contain:
+   enable-rcon=true
+   rcon.port=25575
+   rcon.password=<same password>
+6. .gitignore must contain:
+   rcon_password.txt
+   world/session.lock
+
+NORMAL USE
+- Start: double-click START SERVER.bat
+- Stop: double-click STOP SERVER.bat
+
+IMPORTANT
+- Only ONE PC should run the Minecraft server at a time.
+- The previous player must finish STOP SERVER.bat successfully before the next PC starts.
+- Keep the GitHub repository private.
+- Never commit rcon_password.txt.
+
