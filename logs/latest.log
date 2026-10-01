@@ -92,3 +92,17 @@
 [07:19:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [07:19:26] [Server thread/INFO]: [Rcon: Saved the game]
 [07:19:26] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[07:20:32] [User Authenticator #0/INFO]: UUID of player dark_rays99 is 98f58cc5-e925-30a8-b5c4-dfab230de1d5
+[07:20:32] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [GriefPrevention]
+[07:20:34] [Server thread/INFO]: dark_rays99 joined the game
+[07:20:34] [Server thread/INFO]: dark_rays99[/127.0.0.1:49842] logged in with entity id 1 at ([minecraft:overworld]80.11809686761652, 64.0, 369.795609596387)
+[07:22:01] [Server thread/INFO]: [dark_rays99: Set own game mode to Creative Mode]
+[07:23:59] [Server thread/INFO]: dark_rays99 issued server command: /gamerule random_tick_speed 70
+[07:23:59] [Server thread/INFO]: [dark_rays99: Gamerule random_tick_speed is now set to: 70]
+[07:24:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[07:24:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:24:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:24:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:24:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:24:31] [Server thread/INFO]: [Rcon: Saved the game]
+[07:24:31] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
